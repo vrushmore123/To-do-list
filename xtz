@@ -1,0 +1,21 @@
+.card h2{
+    padding: 20px;
+    font-size: 30px;
+    margin-left: 10px;
+
+}
+
+.search input{
+    margin: 20px;
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.btn--1{
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+
+background: linear-gradient(135deg,#153677,#4e085f);
